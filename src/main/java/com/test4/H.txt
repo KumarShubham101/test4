@@ -1,5 +1,13 @@
+<<<<<<< Updated upstream
 Patna 
 Bihar
+=======
+//login featue
+half done 
+//
+Shubham 
+Kumar
+>>>>>>> Stashed changes
 dkjfgsdkfjg
 sdkjafsd
 skbdfskjabhf
